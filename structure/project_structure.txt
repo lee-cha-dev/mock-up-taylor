@@ -1,0 +1,28 @@
+Project Structure (generated on 2024-09-28 15:11:49.993671):
+
+mock-up-taylor/
+├── README.md
+├── package-lock.json
+├── package.json
+├── public/
+│   ├── favicon.ico
+│   ├── index.html
+│   ├── logo192.png
+│   ├── logo512.png
+│   ├── manifest.json
+│   └── robots.txt
+├── src/
+│   ├── App.js
+│   ├── ColorModeSwitcher.js
+│   ├── Logo.js
+│   ├── components/
+│   │   ├── FAQ.js
+│   │   ├── Footer.js
+│   │   ├── Gallery.js
+│   │   ├── Hero.js
+│   │   └── Services.js
+│   ├── index.js
+│   ├── logo.svg
+│   └── theme.js
+├── structure/
+│   └── project_structure.txt
