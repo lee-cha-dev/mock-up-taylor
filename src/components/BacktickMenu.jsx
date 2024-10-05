@@ -88,6 +88,14 @@ const BacktickMenu = ({ isOpen, onClose, currentTheme, onThemeChange }) => {
           </VStack>
         </ModalBody>
         <ModalFooter>
+          <Button colorScheme="green" mr={3}>
+            <a
+              href="https://coolors.co/e6f2ff-3182ce-1a365d-bebfc5-ffffff"
+              target="_blank" rel="noreferrer"
+            >
+              Explore Themes
+            </a>
+          </Button>
           <Button colorScheme="red" mr={3} onClick={onClose}>
             Close
           </Button>
